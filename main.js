@@ -1,4 +1,4 @@
- const minusBtn = document.getElementById("minus");
+const minusBtn = document.getElementById("minus");
 const resetBtn = document.getElementById("reset");
 const plusBtn = document.getElementById("plus");
 const number = document.getElementById("number");
