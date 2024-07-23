@@ -1,3 +1,5 @@
+#counter
+  
 const minusBtn = document.getElementById("minus");
 const resetBtn = document.getElementById("reset");
 const plusBtn = document.getElementById("plus");
